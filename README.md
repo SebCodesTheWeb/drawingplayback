@@ -21,7 +21,7 @@ change the color of a square, and when the change occured in milisecond after yo
 It then plays back those changes. And thus, you can live interact with the drawing board, whilst 
 your recording is playing back!
 
-You can chain recordings together to create multiple recordings playing back at the same time!
+You can chain recordings together to create multiple recordings playing back at the same time.
 
 About the drawing board itself, it uses css grid to create 3000 squares. When the user is holding the mouse down it starts to draw
 the selected color (which you can choose by clicking on the black sqaure in the right bottom). If you want to erase, you can click on eraser, and now 
