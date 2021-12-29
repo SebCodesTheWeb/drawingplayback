@@ -28,9 +28,9 @@ the selected color (which you can choose by clicking on the black sqaure in the 
 it will delete all of the squares you've drawn when you hover over them.
 
 --Social Media--
-Youtube: https://www.youtube.com/channel/UCikWIcChAOSwoc2qpbZ6iIA
-Blog: https://sebcodestheweb.hashnode.dev/
-Github: https://github.com/SebCodesTheWeb
+- Youtube: https://www.youtube.com/channel/UCikWIcChAOSwoc2qpbZ6iIA
+- Blog: https://sebcodestheweb.hashnode.dev/
+- Github: https://github.com/SebCodesTheWeb
 
 --About me--
 
