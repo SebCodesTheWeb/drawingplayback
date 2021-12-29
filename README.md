@@ -1,5 +1,9 @@
 # drawingplayback
-This is a normal drawing board. But wait is it!?
+You can view the deployed project here: https://drawingplayback.netlify.app/
+
+--What is this?--
+
+This is a normal pixel art drawing board. But wait is it!?
 
 No, that would be kinda boring, so I added a feature where you can record your actions and then 
 playback those actions. To do this. 
@@ -10,10 +14,18 @@ playback those actions. To do this.
 5. You can draw while your previous drawing is playing back
 6. Click exit play
 
+--How to Use--
+
 The way the recording works is by using an array of objects, keeping track of all the changes when you 
 change the color of a square, and when the change occured in milisecond after you pressed record.
 It then plays back those changes. And thus, you can live interact with the drawing board, whilst 
 your recording is playing back!
+
+You can chain recordings together to create multiple recordings playing back at the same time!
+
+About the drawing board itself, it uses css grid to create 3000 squares. When the user is holding the mouse down it starts to draw
+the selected color (which you can choose by clicking on the black sqaure in the right bottom). If you want to erase, you can click on eraser, and now 
+it will delete all of the squares you've drawn when you hover over them.
 
 --About me--
 
