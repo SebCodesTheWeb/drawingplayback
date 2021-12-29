@@ -27,6 +27,11 @@ About the drawing board itself, it uses css grid to create 3000 squares. When th
 the selected color (which you can choose by clicking on the black sqaure in the right bottom). If you want to erase, you can click on eraser, and now 
 it will delete all of the squares you've drawn when you hover over them.
 
+--Social Media--
+Youtube: https://www.youtube.com/channel/UCikWIcChAOSwoc2qpbZ6iIA
+Blog: https://sebcodestheweb.hashnode.dev/
+Github: https://github.com/SebCodesTheWeb
+
 --About me--
 
 Hello! My name is Sebastian, and I'm a high-school student from Sweden. I have dabbled with some front-end development for the past few months. And since Christmas brake finally arrived, I've decided to start a challenge for myself! I'm going to code for the coming 20 days.
